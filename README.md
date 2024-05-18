@@ -1,1 +1,2 @@
 # Landing_Page_-Renting-a-Car
+This project is a landing page for a luxury car rental service named "Spark Car Rental." The page is designed to provide information about the services offered, showcase the variety of luxury cars available for rent, and highlight the benefits of using the service. The landing page is built using HTML and CSS and features a responsive design to ensure a seamless user experience across different devices.
